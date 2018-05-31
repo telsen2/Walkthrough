@@ -1,0 +1,17 @@
+***INPUT***
+
+input1(integer)
+input2(integer)
+input3(integer)
+
+
+***PROCESS***
+
+result = read_input1 + read_input2
+total= result + input3
+
+
+***OUTPUT***
+display total
+
+

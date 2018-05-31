@@ -1,0 +1,24 @@
+***INPUT***
+
+get inches_of_rain(float)
+
+get lenght_of_roof(float)
+get width_of_roof(float)
+
+
+***PROCESS***
+
+*convert_to_inches
+
+width(float) = width_of_roof x 12
+lenght(float) = lenght_of_roof  x 12
+
+roof_dimension(float) = width  x  lenght
+
+water_volume = roof_dimension X inches_of_rain
+gallons = water_volume / 231
+
+***OUTPUT***
+
+print gallons
+

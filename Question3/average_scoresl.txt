@@ -1,0 +1,23 @@
+***INPUT***
+
+*prompt user for score ten times*
+num_scores = 1
+get_score(float) while num_scores -10 > 0
+
+
+***PROCESS***
+
+*add the scores from 1 through 10*
+
+total = sum(scores) 
+
+*calculate the average score*
+
+average = sum(scores) / num_scores
+
+
+
+***OUTPUT***
+display average
+
+

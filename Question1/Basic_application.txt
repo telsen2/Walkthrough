@@ -1,0 +1,14 @@
+***INPUT***
+user_input(integer) 
+get integer from user
+
+***PROCESS***
+user_result =(user_input + 5  * 2) - 7
+add 5 to integer
+multiply integer by 2 as product
+substract 7 from  product as result
+
+***OUTPUT***
+display user_result
+
+

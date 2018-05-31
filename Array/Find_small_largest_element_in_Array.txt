@@ -1,0 +1,34 @@
+*FIND  SMALLEST (and THE LARGEST) ELEMENT OF THE ARRAY
+
+***INPUT****
+
+set element_found to false
+
+set lowest_num to N
+set highest_num to max_num_elements
+
+index = (lowest_num + highest_num) /2
+
+lowest_num = (2* index) -1
+
+***PROCESSING STEPS***
+
+*compare element to each other element in the array until reaching the end of the array?
+*put first element of array into variable compare to the rest of the elemnts of the array
+*or the largest/smallest element
+
+
+do while (not element_found )
+    and (lowest_num <= highest_num)
+ 
+    if highest_num <= max_number_elements 
+       and highest_num_elements > index
+     then highest_num_elements = highest_num_elements - index
+	if  highest_num  to highest_num - 1	
+    else
+      set element_found to true
+    elseif 
+       
+
+
+***OUTPUT***
